@@ -9,6 +9,8 @@ namespace ConsoleApplication1
     class Class1
     {
         //change in clas1
+        // changes from F1.0
+
 
     }
 }
